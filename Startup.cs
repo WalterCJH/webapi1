@@ -80,7 +80,6 @@ namespace webapi1
 
 
 
-
             // services.AddTransient<IMyService, MyService>();
             // services.AddSingleton<IMyServiceSingleton>(new MyService() { Name = "John" });
             // services.AddTransient<MyFactory>();
